@@ -1,0 +1,12 @@
+.d-flex {
+    padding-left: 20%;
+    padding-right: 5%
+}
+
+.form-control {
+    width: 400px;
+}
+
+.navbar-nav {
+    cursor: pointer;
+}

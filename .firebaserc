@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ecommerceapp-54547": {
+      "hosting": {
+        "eCommerceApp": [
+          "ecommerceapp-54547"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ecommerceapp-54547"
+  }
+}
